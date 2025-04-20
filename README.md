@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [RecipeWizard](https://github.com/passportmidi/capstone-project-frontend)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and Next.js**
 
-- 📝 I regularly write articles on [https://sydnet.neocities.org/](https://sydnet.neocities.org/)
+- 📝 I regularly write articles at [blog.putnam.computer](https://blog.putnam.computer/)
 
 - 💬 Ask me about **Automation scripts and SQL queries**
 
