@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sydney</h1>
+<h1 align="center">Hi, I'm Sydney 💾</h1>
 <h3 align="center">Software developer and FOSS fan</h3>
 
 - 🔭 I’m currently working on [RecipeWizard](https://github.com/passportmidi/capstone-project-frontend)
